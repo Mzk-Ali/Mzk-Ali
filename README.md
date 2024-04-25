@@ -1,3 +1,4 @@
+![Cover](https://github.com/Mzk-Ali/img_git/Image (2).jpg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mzk-Ali&show_icons=true&theme=radical)
 
 
