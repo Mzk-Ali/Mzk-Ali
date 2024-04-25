@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mzk-Ali&show_icons=true&theme=radical)
+
 
  Salut! 👋
 💬 Si tu es là, c'est que certainement mon profil t'intéresse alors laisse moi te donner des détails sur moi et ce que tu trouveras sur ce github.
