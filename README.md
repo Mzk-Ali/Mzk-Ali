@@ -9,3 +9,5 @@ Je m'appelle Ali MARZAK et je viens de la ville de Strasbourg qui m'a vu naitre 
 Actuellement, je suis en formation pour le Titre de "Developpeur WEB et WEB mobile" que j'ai commencé le 26 février 2024. 
 
 Dans ce gitHub, tu trouveras l'ensemble des exercices de bases auquel j'ai travaillé pour améliorer les différents langages de programmation, mais aussi des gros projets de site WEB comme le projet "Cinema" ou encore "Forum".
+
+Me contacter par linkedin : https://www.linkedin.com/in/ali-marzak-b465742b7/
