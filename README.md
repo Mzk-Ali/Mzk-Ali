@@ -10,4 +10,6 @@ Actuellement, je suis en formation pour le Titre de "Developpeur WEB et WEB mobi
 
 Dans ce gitHub, tu trouveras l'ensemble des exercices de bases auquel j'ai travaillé pour améliorer les différents langages de programmation, mais aussi des gros projets de site WEB comme le projet "Cinema" ou encore "Forum".
 
+De plus, j'ai l'opportunité de faire un stage de quelques semaines à partir du 03 juin 2024 donc si mon profil vous interesse, je vous laisse mon linkedin ci-dessous où vous pourrez trouver mon CV avec l'ensemble de mes coordonnées.
+
 Me contacter par linkedin : https://www.linkedin.com/in/ali-marzak-b465742b7/
