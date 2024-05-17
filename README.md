@@ -7,6 +7,8 @@ Je m'appelle Ali MARZAK et je viens de la ville de Strasbourg qui m'a vu naitre 
 
 Actuellement, je suis en formation pour le Titre de "Developpeur WEB et WEB mobile" que j'ai commencé le 26 février 2024 après avoir validé un Master en Mécatronique & Energie.
 
+***(J'ai l'opportunité de faire un stage de quelques semaines à partir du 03 juin 2024 donc si mon profil vous interesse, je vous laisse mon linkedin ci-dessous où vous pourrez trouver mon CV avec l'ensemble de mes coordonnées.)***
+
 J'ai donc été formé à du HTML et CSS et au langage de programamtion PHP et Javascript (DOM), tout en passant par le langage SQL avec Mysql. 
 
 Durant cette formation, par le biais de projets, j'ai pu apprendre des notions tel que la temporisation de sortie en PHP, la **sécurité** de site WEB ou encore des cours de **RGPD** (Règlement général sur la protection des données) régi par la CNIL ou encore des cours de **SEO** (Optimisation pour les moteurs de recherche) pour une mise en avant du site web au niveau du référencement.
@@ -48,7 +50,18 @@ Dans ce gitHub, tu trouveras l'ensemble des exercices de bases auquel j'ai trava
 
 <h3 align="left">Outils supplémentaires:</h3>
 
-***De plus, j'ai l'opportunité de faire un stage de quelques semaines à partir du 03 juin 2024 donc si mon profil vous interesse, je vous laisse mon linkedin ci-dessous où vous pourrez trouver mon CV avec l'ensemble de mes coordonnées.***
+- <p><b>Gestion de projet</b> : https://trello.com/ </p>
+- <p><b>Logiciel de modélisation Conceptuelle de données</b> : https://www.looping-mcd.fr/ </p>
+- <p>Test des performances d'un Site WEB : https://gtmetrix.com/ </p>
+- <p>Info sur la prise en charge des technologies WEB : https://caniuse.com/ </p>
+- <p>Gestion des couleurs & générateur de blop : https://gradients.app/en </p>
+- <p>Aide des contrastes de couleurs pour le référencement sur Google : https://colorable.jxnblk.com/ </p>
+- <p>Compression des images pour améliorer les performances et le référencement sur Google : https://compressor.io/ </p>
+
+
+
+<br>
+
 
 <h3 align="left">Me contacter:</h3>
 
