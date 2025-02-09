@@ -68,6 +68,3 @@ Dans ce gitHub, tu trouveras l'ensemble des exercices de bases auquel j'ai trava
 <h3 align="left">Me contacter:</h3>
 
 Via linkedin : https://www.linkedin.com/in/ali-marzak-b465742b7/
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mzk-Ali&show_icons=true&theme=radical)
