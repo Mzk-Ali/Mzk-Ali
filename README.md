@@ -5,21 +5,23 @@
 
 Je m'appelle Ali MARZAK et je viens de la ville de Strasbourg qui m'a vu naitre et grandir. 
 
-Actuellement, je suis en formation pour le Titre de "Developpeur WEB et WEB mobile" que j'ai commencé le 26 février 2024 après avoir validé un Master en Mécatronique & Energie.
+Actuellement, j'ai un titre de "Developpeur WEB et WEB mobile" que j'ai obtenu en fin d'année 2024 et aussi validé un Master en Mécatronique & Energie en 2023.
 
-***(J'ai l'opportunité de faire un stage de quelques semaines à partir du 03 juin 2024 donc si mon profil vous interesse, je vous laisse mon linkedin ci-dessous où vous pourrez trouver mon CV avec l'ensemble de mes coordonnées.)***
+***(Je suis actuellement à la recherche d'une alternance en Concepteur développeur d'Application donc si mon profil vous interesse, je vous laisse mon linkedin ci-dessous où vous pourrez trouver mon CV avec l'ensemble de mes coordonnées.)***
 
 J'ai donc été formé à du HTML et CSS et au langage de programamtion PHP et Javascript (DOM), tout en passant par le langage SQL avec Mysql. 
 
 Durant cette formation, par le biais de projets, j'ai pu apprendre des notions tel que la temporisation de sortie en PHP, la **sécurité** de site WEB ou encore des cours de **RGPD** (Règlement général sur la protection des données) régi par la CNIL ou encore des cours de **SEO** (Optimisation pour les moteurs de recherche) pour une mise en avant du site web au niveau du référencement.
 
-Dans ce gitHub, tu trouveras l'ensemble des exercices de bases auquel j'ai travaillé pour améliorer les différents langages de programmation, mais aussi des gros projets de site WEB comme le projet "Cinema" ou encore "Forum".
+J'ai aussi pu développer en autodidacte des compétences sur les frameworks React.js, Next.js grâce à des projets (projet Examen ou projet personnel).
+
+Dans ce gitHub, tu trouveras l'ensemble des exercices de bases auquel j'ai travaillé pour améliorer les différents langages de programmation, mais aussi des gros projets de site WEB comme le projet "Cinema", "Forum" ou encore "Session". Mon dernier projet est le projet "Forum Version 2" qui reprend l'ancien projet avec une nouvelle Stack.
 
 <br>
 
-- 🔭 Je suis actuellement sur le 3eme projet de ma formation **"SESSION"**
+- 🔭 Je suis actuellement sur le redéveloppement du 2eme projet de ma formation **"Forum Version 2"**
 
-- 🌱 J'apprends actuellement le Framework PHP **Symfony**
+- 🌱 J'apprends actuellement le Framework **Next.js**
 
 - 👨‍💻 Tous mes projets sont disponibles à l'adresse suivante [https://github.com/Mzk-Ali](https://github.com/Mzk-Ali)
 
